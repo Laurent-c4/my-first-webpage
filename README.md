@@ -8,8 +8,6 @@ know how to make a simple website.
 * Install a powerful web browser
 ## Known Bugs
 No bugs.
-## Technologies Used
-
 ## Support and contact details
 In case of any issues encountered or queries, you can contact lcbillax.lj@gmail.com or +254792599994. You are always free to contact
 or make any contribution to the code.
