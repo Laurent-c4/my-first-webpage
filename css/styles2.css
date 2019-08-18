@@ -1,15 +1,23 @@
 body {
   background-color: #C2C6C7;
 }
-h1 {
-  color: #3f3844;
+.likes {
   font-family: sans-serif;
+}
+.introduction {
+  font-family: monospace;
+}
+h1.introduction {
+  color: #3f3844;
   text-align: center;
   font-size: 55px;
 }
-h2 {
+h2.introduction {
   color: #3f3844;
-  font-family: sans-serif;
+  text-align: center;
+}
+h2.likes {
+  color: #3f3844;
   text-align: center;
   font-size: 30px;
   font-style: oblique;
@@ -19,15 +27,25 @@ h2 {
   margin-left: auto;
   margin-right: auto;
 }
-p {
-  font-family: monospace;
-  font-size: 15px;
+p.introduction {
+
+  font-size: 17px;
 }
-ol {
-  font-family: monospace;
-  font-size: 14px;
+p.likes {
+  font-size: 18px;
 }
-ul {
-  font-family: monospace;
-  font-size: 14px;
+
+ol.introduction {
+  font-size: 17px;
+}
+ol.likes {
+  font-size: 18px;
+  line-height: 30px;
+}
+ul.introduction {
+  font-size: 17px;
+}
+ul.likes {
+  font-size: 18px;
+  line-height: 30px;
 }
