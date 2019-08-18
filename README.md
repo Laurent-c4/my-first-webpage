@@ -12,7 +12,7 @@ No bugs.
 In case of any issues encountered or queries, you can contact lcbillax.lj@gmail.com or +254792599994. You are always free to contact
 or make any contribution to the code.
 ### License
-MIT License
+* MIT License
 
 Copyright (c) 2019 Laurent Juma
 
